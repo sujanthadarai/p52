@@ -135,3 +135,6 @@ def change_password(request):
 
 #new change here 
 print("hello this  is new file")
+
+print("suman la gareko code")
+print("hello suman")
